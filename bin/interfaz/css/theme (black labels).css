@@ -1,0 +1,11 @@
+.background{
+	-fx-background-color: WHITE;
+}
+.button{
+	-fx-background-color: BLACK; -fx-text-fill: white;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.label{
+	-fx-text-fill: gray;
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
